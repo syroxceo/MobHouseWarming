@@ -37,6 +37,7 @@ td{
 
 .backgr1{
   background-image: url("background_img1.jpeg");
+ background-size: cover;
 }
 .backgr2{
   background-image: url("Text_bg1.jpeg");
