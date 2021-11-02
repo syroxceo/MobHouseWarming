@@ -41,6 +41,7 @@ td{
 .backgr2{
   background-image: url("Text_bg1.jpeg");
  background-repeat:no-repeat;
+ background-size: cover;
 }
 
 
