@@ -6,6 +6,10 @@ table, th, td {
   border: 1px solid black;
 }
 
+td{
+ background-image: url("background_img1.jpeg");
+}
+
 .house{
     align-content: center;
 }
