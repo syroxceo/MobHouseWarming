@@ -10,18 +10,12 @@
     padding-right: 100px;
 }
 
-#title{
-    font-family: 'Rancho', cursive;
-    font-size: 30px;
-    line-height: 0px;
-    color: darkgoldenrod;
-}
-
 #hw{
     font-family: 'Rancho', cursive;
-    font-size: 30px;
+    font-size: 60px;
     line-height: 0px;
     color: darkgoldenrod;
+    text-align: center;
 }
 
 
