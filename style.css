@@ -12,8 +12,6 @@ table, th, td {
 }
 
 td{
- background-image: url("background_img1.jpeg");
- background-size: 150px;
   width: 300px;
   height: 300px;
   border: solid 2px red;
