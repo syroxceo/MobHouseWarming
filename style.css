@@ -1,0 +1,72 @@
+#card{
+ 
+}
+
+.house{
+    width: 600px;
+    padding-left: 250px;
+    padding-top: 150px;
+    padding-bottom: 100px;
+    padding-right: 100px;
+}
+
+#title{
+    font-family: 'Rancho', cursive;
+    font-size: 30px;
+    line-height: 0px;
+    color: darkgoldenrod;
+}
+
+#hw{
+    font-family: 'Cookie', cursive;
+    font-size: 100px;
+    line-height: 0px;
+    color: darkgoldenrod;
+}
+
+.host{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 25px;
+    line-height: 5px;
+    color: darkgoldenrod;
+}
+
+
+#details{
+    
+}
+
+#message{
+    padding-left: 450px;
+    padding-right: 450px;
+    padding-bottom: 100px;
+    font-family: 'Rancho', cursive;
+    font-size: 30px;
+}
+
+#message2{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+}
+
+#trans{
+    width: 700px;
+    border-style: inset;
+    border-color: darkgoldenrod;
+    border-width: 10px;
+}
+
+#the{
+    text-align: center;
+    font-family: 'Rancho', cursive;
+    font-size: 50px;
+}
+
+mark {
+  background-color: yellow;
+}
+
+#gif{
+        text-align: center;
+}
