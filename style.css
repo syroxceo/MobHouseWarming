@@ -49,6 +49,11 @@ td{
  background-repeat:no-repeat;
  background-size: cover;
 }
+.backgr4{
+  background-image: url("img_bg1.jpeg");
+ background-repeat:no-repeat;
+ background-size: cover;
+}
 
 
 
