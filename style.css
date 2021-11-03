@@ -83,3 +83,8 @@ mark {
 #gif{
         text-align: center;
 }
+
+#frame{
+ width: 500px;
+ height: 1000px;
+}
